@@ -9,43 +9,19 @@ Welcome to our Job Portal web application! This application helps users find job
 - **User Profiles**: Manage user profiles and preferences.
 - **Help & Support**: Access help and support resources for assistance.
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/job-portal.git
-
-
-Technologies Used
+## Technologies Used
 React.js: Frontend framework for building user interfaces.
 CSS: Styling the components and layout.
 
 
-Folder structure-
-
-MPLOYEE-TASK/
-├── src/
-│   ├── components/
-│   │   ├── navbar/
-│   │   ├── left-section/
-│   │   ├── right-section/
-│   │   └── ...
-│   ├── assets/
-│   │   ├── images/
-│   │   └── ...
-│   ├── Api/
-│   │   └── jobApi.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── public/
-├── README.md
-└── ...
 
 
 
 
+##Screenshots
+![Screenshot 2024-04-26 104829](https://github.com/lavanyamishra/Mployee-task/assets/100487476/c5839437-3459-485c-acbc-5eda3b9d6df1)
+![Screenshot 2024-04-26 104843](https://github.com/lavanyamishra/Mployee-task/assets/100487476/ca6a1818-6c47-403b-b2fd-6b43efe4f2f6)
 
 
 
@@ -90,6 +66,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/job-portal.git
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
